@@ -5,3 +5,10 @@
 .ng-valid.ng-dirty{
     border-color: #4cae4c;
 }
+
+body {
+    background-color: #888888;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: medium;
+    padding-top: 70px;
+}
